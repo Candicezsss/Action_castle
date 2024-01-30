@@ -1,0 +1,1 @@
+get script, go north, give playwright the script, talk to playwright, take letter, go east, browse books, take book on curses, read book on curses, go west, go south, set the stage
